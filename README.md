@@ -1,5 +1,9 @@
 ##Sample Java EE 7 Project with a generic DAO implementation
 
+Read the blog post:
+- http://rodrigouchoa.wordpress.com/2014/09/26/generic-dao-example/ (english version)
+- http://rodrigouchoa.wordpress.com/2014/09/26/exemplo-dao-generico/ (versão em português)
+
 This is just some code you can play with. I've tested this against JBoss WildFly 8.1, but
 it should run in any Java EE 7 compliant server with minor maven libs adjusments.
 
