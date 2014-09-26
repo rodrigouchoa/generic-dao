@@ -1,4 +1,4 @@
-#Sample Java EE 7 Project with a generic DAO implementation
+##Sample Java EE 7 Project with a generic DAO implementation
 
 This is just some code you can play with. I've tested this against JBoss WildFly 8.1, but
 it should run in any Java EE 7 compliant server with minor maven libs adjusments.
